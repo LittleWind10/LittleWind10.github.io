@@ -50,7 +50,7 @@ var projects = [
 		projectName: 'ITKonsulKu',
 		projectLogo: '../logo/itkonsulku-logo.png',
 		projectImage:
-			'../banner/ITKonsulKu/ITKonsulKu-banner-1.png, ../banner/ITKonsulKu/ITKonsulKu-banner-2.png, ../banner/ITKonsulKu/ITKonsulKu-banner-3.png',
+			'../banner/ITKonsulKu/ITkonsulku-banner-1.png, ../banner/ITKonsulKu/ITkonsulku-banner-2.png, ../banner/ITKonsulKu/ITkonsulku-banner-3.png',
 		projectType: 'IT Consultation Mobile Application Design',
 		projectCategory: 'Mobile, UI/UX Design, Featured',
 		projectDate: '1 March 2023',
